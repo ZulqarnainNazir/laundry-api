@@ -2,6 +2,7 @@
     "name": "Task API documentation",
     "version": "1.1.0",
     "description": "API task list manager",
+	"url" : "https://laundry-app-api.herokuapp.com/",
     "template": {
         "forceLanguage": "en"
     }

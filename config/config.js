@@ -27,7 +27,7 @@ const config = {
       name: 'laundry'
     },
     port: process.env.PORT || 3000,
-    db: 'mongodb://localhost/laundry-production'
+    db: 'mongodb://zzz:zzz@ds135534.mlab.com:35534/firstnode-production'
   }
 };
 
